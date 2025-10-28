@@ -9,7 +9,7 @@ The goal is to **incentivize sustainability** by providing a secure, trustless e
 
 ## 🚀 Key Features
 
-* 🌱 **Tokenized Carbon Credits** – Each carbon credit is minted as an NFT representing one verified metric ton of CO₂ offset.
+* 🌱 **Tokenized Carbon Credits** – Each carbon credit is minted as an NFT representing one verified metric ton of CO₂
 * 🔗 **Blockchain Transparency** – Every transaction is recorded immutably, ensuring trust and traceability.
 * 💰 **Marketplace for Trading** – Buy, sell, or retire carbon credits using cryptocurrency.
 * 🧾 **Verification System** – Integrates APIs or oracles from certified environmental organizations (e.g., Verra, Gold Standard).
