@@ -111,6 +111,6 @@ Fork the repository, make your changes, and submit a pull request.
 
 > “Empowering sustainability through blockchain transparency.”
 > Every transaction contributes to a cleaner, greener planet. 🌏
+<img width="1470" height="956" alt="Screenshot 2025-11-03 at 10 56 56 PM" src="https://github.com/user-attachments/assets/c96210fe-ce46-4170-9a52-4f89464ad25c" />
 
 ---
-![Uploading Screenshot 2025-11-03 at 10.55.35 PM.png…]()
